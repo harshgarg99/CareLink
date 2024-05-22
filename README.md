@@ -1,4 +1,4 @@
-![image](https://github.com/harshgarg99/CareLink/assets/111083578/03226a84-46cf-45fe-8f62-63e653c8f3ec)![image](https://github.com/harshgarg99/CareLink/assets/111083578/dd1fd31c-8d29-4c9f-8765-7ab565a2dd92)
+![image](https://github.com/harshgarg99/CareLink/assets/111083578/dd1fd31c-8d29-4c9f-8765-7ab565a2dd92)
 ![image](https://github.com/harshgarg99/CareLink/assets/111083578/a13e4052-9dfa-4433-9de8-f31e510a9d5c)
 ![image](https://github.com/harshgarg99/CareLink/assets/111083578/9b075ced-67bf-4e75-89a5-ce0c849d13d2)
 **Patient's Panel**
